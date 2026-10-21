@@ -1,0 +1,6 @@
+{
+  "name": "NeuroSOS — Offline Sensory Calm & Focus Tool",
+  "description": "100% offline sensory comfort, procedural ambient sound masking, visual transition timer, and child touch-lock kiosk for calm and focus support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
